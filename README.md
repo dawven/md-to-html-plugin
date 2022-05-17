@@ -9,8 +9,8 @@ markdown转html插件
 5. 输出html文件。
 
 # 目录
-dist是输出目录
-index是插件内容
-compiler是插件md转html的逻辑处理函数
-template.html是html模板
+- dist是输出目录
+- index是插件内容
+- compiler是插件md转html的逻辑处理函数
+- template.html是html模板
 
